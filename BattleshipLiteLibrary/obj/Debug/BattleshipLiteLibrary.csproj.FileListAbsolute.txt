@@ -1,0 +1,9 @@
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BattleshipLiteApp\BattleshipLiteLibrary\bin\Debug\BattleshipLiteLibrary.dll
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BattleshipLiteApp\BattleshipLiteLibrary\bin\Debug\BattleshipLiteLibrary.pdb
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.csprojAssemblyReference.cache
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.dll
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.pdb
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BattleshipLiteApp\BattleshipLiteLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BattleshipLiteApp\BattleshipLiteLibrary\bin\Debug\System.ValueTuple.xml
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.csproj.CopyComplete
